@@ -1,0 +1,9 @@
+.note-form {
+  position: absolute;
+  left: 43em;
+  padding-left: 10em;
+  padding-right: 10em;
+  text-align: center;
+  background-color: rgb(209, 230, 231);
+  z-index: 2;
+}

@@ -1,0 +1,16 @@
+.header {
+  display: grid;
+  grid-area: h;
+  font-family: "Roboto", sans-serif;
+  grid-template-columns: 30em 1fr 45em;
+  grid-gap: 5px;
+  grid-template-areas: "l . s";
+  border-radius: 5px;
+}
+.logo {
+  margin-left: 1em;
+  grid-area: l;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: rgba(240, 248, 255, 0.884);
+}

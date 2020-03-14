@@ -1,0 +1,8 @@
+.app {
+  display: grid;
+  grid-template-rows: 100px 1fr;
+  grid-gap: 5px;
+  grid-template-areas:
+    "h"
+    "c";
+}

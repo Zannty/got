@@ -1,0 +1,15 @@
+.table {
+  grid-area: c;
+  margin-left: auto;
+  text-align: center;
+}
+td {
+  word-break: break-all;
+}
+.contain {
+  margin: auto 5em auto 5em;
+  z-index: 1;
+}
+.modal {
+  opacity: 0.1;
+}

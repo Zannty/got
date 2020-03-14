@@ -1,0 +1,15 @@
+.search-panel {
+  grid-area: s;
+  margin: 1em;
+}
+.select-filter {
+  margin: 0 1em 0 1em;
+}
+.input-search {
+  margin-right: 1em;
+}
+.se {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: rgba(240, 248, 255, 0.884);
+}
